@@ -5,7 +5,7 @@ An intelligent web application that automatically analyzes any CSV dataset and g
 ---
 
 ## 🌐 Live Demo
-👉 [[Open Live App](https://bharathgaju-ai-eda-assistant.streamlit.app)](https://ai-eda-assistant-fqmb479mdpgrnnqysaalpl.streamlit.app/)
+👉 [[[Open Live App](https://bharathgaju-ai-eda-assistant.streamlit.app)](https://ai-eda-assistant-fqmb479mdpgrnnqysaalpl.streamlit.app/)](https://ai-sql-generator-kyrxxdpuabj5sta7ryoawr.streamlit.app/)
 
 
 ---
